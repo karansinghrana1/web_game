@@ -4,6 +4,11 @@
 
 The Connect Four game is a JavaScript implementation designed for two players, providing an interactive and engaging experience. Players take turns selecting columns to drop their colored chips, aiming to connect four chips of the same color either horizontally, vertically, or diagonally.
 
+
+https://github.com/karansinghrana1/web_game/assets/96226118/358fed57-81c2-4dd9-9c28-1c9aedcea092
+
+
+
 ## Features:
 
 - **Player Interaction:** Prompts players to enter their names, assigning them distinct colors (Blue and Red) for gameplay.
