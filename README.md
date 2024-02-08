@@ -36,6 +36,3 @@ The Connect Four game is a JavaScript implementation designed for two players, p
 
 The Connect Four game serves as both an entertaining pastime and a practical learning tool, with the potential for future enhancements to further enrich the gaming experience.
 
-## Embedding Video:
-
-To embed a video in Markdown, you can use the following syntax:
